@@ -18,4 +18,4 @@ if __name__ == "__main__":
     pedurma_outline = yaml.safe_load(Path('./pedurma_outline.yml').read_text(encoding='utf-8'))
     editable_text = filter_editable_text(pedurma_outline)
     print(f'Total {len(editable_text)} found editable..')
-    Path('./editable_tenjur_text.json').write_text(json.dumps(editable_text, ensure_ascii=False), encoding='utf-8')
+    Path('./t_text_list.json').write_text(json.dumps(editable_text, ensure_ascii=False), encoding='utf-8')
