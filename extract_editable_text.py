@@ -11,7 +11,8 @@ def filter_editable_text(pedurma_outline):
             cur_text_info['p_title'] = text['pedurma_title']
             cur_text_info['d_id'] = text['rkts_id']
             cur_text_info['d_title'] = text['text_title']
-            editable_text.append(cur_text_info)
+            if cur_text_info not in editable_text:
+                editable_text.append(cur_text_info)
     return editable_text
 
 if __name__ == "__main__":
