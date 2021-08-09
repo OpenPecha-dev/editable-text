@@ -23,8 +23,10 @@ def get_text_mapping(pedurma_outline, editable_text_list):
         text_id = text['rkts_id']
         if text_id in editable_text_list:
             cur_text_info['p_title'] = text['pedurma_title']
-            cur_text_info['namsel'] = get_text_opf_id(text_id, namsel_text_opf_mapping)
-            cur_text_info['google'] = get_text_opf_id(text_id, dg_text_opf_mapping)
+            # cur_text_info['namsel'] = get_text_opf_id(text_id, namsel_text_opf_mapping)
+            # cur_text_info['google'] = get_text_opf_id(text_id, dg_text_opf_mapping)
+            cur_text_info['namsel'] = "12d32eb31c1a4cc59741cda99ebc7211"
+            cur_text_info['google'] = "187ed94f85154ea5b1ac374a651e1770"
             editable_text[text_id] = cur_text_info
     return editable_text
 
