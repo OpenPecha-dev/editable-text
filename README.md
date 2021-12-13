@@ -362,3 +362,9 @@
 | [cb5282c69ad24b52b1a6fd72d7bad32f](https://github.com/OpenPecha/cb5282c69ad24b52b1a6fd72d7bad32f) | རིགས་ཀྱི་སྨོན་ལམ།                                                                          | namsel | D4389    |
 | [467eec30f76c4dc09e650df2b749b285](https://github.com/OpenPecha/467eec30f76c4dc09e650df2b749b285) | བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ།                                                                 | google | D4410    |
 | [bc9e3e3fd8c2433c967628b63712475c](https://github.com/OpenPecha/bc9e3e3fd8c2433c967628b63712475c) | བཀྲ་ཤིས་ཀྱི་ཚིགས་སུ་བཅད་པ།                                                                 | namsel | D4410    |
+| [1bf45e9891a9410dbd84d9c5804ba075](https://github.com/OpenPecha/1bf45e9891a9410dbd84d9c5804ba075) |བདེན་པ་གཉིས་རྣམ་པར་འབྱེད་པའི་ཚིག་ལེའུར་བྱས་པ།                                                   | google | D3881    |
+| [c24e875f430e4df7aa118c2325083127](https://github.com/OpenPecha/c24e875f430e4df7aa118c2325083127) |བདེན་པ་གཉིས་རྣམ་པར་འབྱེད་པའི་ཚིག་ལེའུར་བྱས་པ།                                                   | namsel | D3881    |
+| [d2b0bfa2ab2a4ec3bfbebf7fec4ecabb](https://github.com/OpenPecha/d2b0bfa2ab2a4ec3bfbebf7fec4ecabb) |བྱང་ཆུབ་ཀྱི་ལྟུང་བ་བཤགས་པའི་འགྲེལ་པ་བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པའི་རིམ་པ།                            | google | D4006    |
+| [10b142568f4c45eaaface19f63f7ed05](https://github.com/OpenPecha/10b142568f4c45eaaface19f63f7ed05) |བྱང་ཆུབ་ཀྱི་ལྟུང་བ་བཤགས་པའི་འགྲེལ་པ་བྱང་ཆུབ་སེམས་དཔའི་བསླབ་པའི་རིམ་པ།                            | namsel | D4006    |
+| [39060ef708d84fc3a1de12eafb80e781](https://github.com/OpenPecha/39060ef708d84fc3a1de12eafb80e781) |གཏན་ཚིགས་ཀྱི་ཐིགས་པ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ།                            | google | D4213    |
+| [00a4dc85da104cf4a19e3891dbcec9e0](https://github.com/OpenPecha/00a4dc85da104cf4a19e3891dbcec9e0) |གཏན་ཚིགས་ཀྱི་ཐིགས་པ་ཞེས་བྱ་བའི་རབ་ཏུ་བྱེད་པ།                            | namsel | D4213    |
