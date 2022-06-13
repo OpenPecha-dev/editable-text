@@ -25,8 +25,10 @@ The repo stores pedurma text infos which can be edit for reconstruction via pedu
 
 ## Owner
 
+- [@10zinten](https://github.com/10zinten)
 - [@kaldan7](https://github.com/kaldan7)
 - [@ta4tsering](https://github.com/ta4tsering)
+
 
 <!-- This section lists the owners of the repo -->
 
